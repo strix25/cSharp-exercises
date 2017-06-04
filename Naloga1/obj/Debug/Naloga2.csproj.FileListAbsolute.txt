@@ -1,0 +1,112 @@
+C:\Users\Damjan\Desktop\urejanje naprednoga\napredno programiranje\Naloga2\Naloga1\bin\Debug\Naloga1.exe.config
+C:\Users\Damjan\Desktop\urejanje naprednoga\napredno programiranje\Naloga2\Naloga1\bin\Debug\Naloga1.exe
+C:\Users\Damjan\Desktop\urejanje naprednoga\napredno programiranje\Naloga2\Naloga1\bin\Debug\Naloga1.pdb
+C:\Users\Damjan\Desktop\urejanje naprednoga\napredno programiranje\Naloga2\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\urejanje naprednoga\napredno programiranje\Naloga2\Naloga1\obj\Debug\Naloga1.exe
+C:\Users\Damjan\Desktop\urejanje naprednoga\napredno programiranje\Naloga2\Naloga1\obj\Debug\Naloga1.pdb
+C:\Users\Damjan\Desktop\urejanje naprednoga\napredno programiranje\Naloga2\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\damjan.oslaj\Desktop\Naloga2-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\damjan.oslaj\Desktop\Naloga2-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\Naloga2-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\Naloga2-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\damjan.oslaj\Desktop\Naloga2-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\Naloga2-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\Desktop\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga4-Damjan_Oslaj\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga4-Damjan_Oslaj\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga4-Damjan_Oslaj\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga4-Damjan_Oslaj\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga4-Damjan_Oslaj\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga4-Damjan_Oslaj\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\damjan.oslaj\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\damjan.oslaj\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\damjan.oslaj\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\potato\Naloga3-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\Desktop\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\today\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\damjan.oslaj\Desktop\today\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\today\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\today\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\today\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\today\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\damjan.oslaj\Desktop\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\damjan.oslaj\Desktop\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\Naloga5-Damjan_Oslaj\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga6-Damjan_Oslaj – kopija\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga6-Damjan_Oslaj – kopija\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga6-Damjan_Oslaj – kopija\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga6-Damjan_Oslaj – kopija\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga6-Damjan_Oslaj – kopija\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\Naloga6-Damjan_Oslaj – kopija\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\damjan.oslaj\Desktop\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\damjan.oslaj\Desktop\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\Desktop\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\Desktop\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\dokoncaj sedmo\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\Desktop\dokoncaj sedmo\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\dokoncaj sedmo\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\dokoncaj sedmo\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\dokoncaj sedmo\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\dokoncaj sedmo\naloga 7 napredno programiranje\trenutno 6 naloga sobota\test\naloga6\Naloga4-Damjan_Oslaj\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\naloga8 napredno\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\Desktop\naloga8 napredno\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\naloga8 napredno\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\Damjan\Desktop\naloga8 napredno\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\Desktop\naloga8 napredno\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\Desktop\naloga8 napredno\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\naloga8 napredno\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\damjan.oslaj\Desktop\naloga8 napredno\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\naloga8 napredno\Naloga1\obj\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\naloga8 napredno\Naloga1\bin\Debug\Naloga2.exe
+C:\Users\damjan.oslaj\Desktop\naloga8 napredno\Naloga1\bin\Debug\Naloga2.pdb
+C:\Users\damjan.oslaj\Desktop\naloga8 napredno\Naloga1\obj\Debug\Naloga2.csprojResolveAssemblyReference.cache
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\naloga8 napredno\Naloga1\bin\Debug\Naloga2.exe.config
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\naloga8 napredno\Naloga1\obj\Debug\Naloga2.exe
+C:\Users\Damjan\OneDrive\Dokumenti\1.2 letnik\napredno programiranje\naloga8 napredno\Naloga1\obj\Debug\Naloga2.pdb
